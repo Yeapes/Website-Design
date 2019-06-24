@@ -1,0 +1,47 @@
+*{
+    margin:  0;
+    padding: 0;
+    outline: 0;
+}
+.template{
+    width: 980px;
+    margin: 0 auto;
+}
+body{
+    background: #1F1F1F;
+}
+.clear{
+    overflow: hidden;
+}
+
+/*Header Section CSS Strat From Here*/
+
+.headersection{
+    height: 130px;
+    background: #FFFFFF;
+    border-top: 6px solid #81B300;
+}
+.lhead {
+	float: left;
+	margin-top: 40px;
+	margin-left: 28px;
+}
+.lhead h1{
+    color: #333333;
+}
+.lhead p{
+    color: #999999;
+}
+.rhead{
+    float: right;
+}
+.social {
+	background: #81B300;
+	margin-right: 28px;
+	border-radius: 0px 0px 15px 10px;
+	width: 200px;
+}
+.social h2{
+    text-align: center;
+}
+ 

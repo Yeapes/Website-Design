@@ -1,0 +1,222 @@
+*{
+	
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+body{
+	background: #ccc;
+	
+}
+
+.webtemplate{
+	
+	width: 960px;
+	margin: 0 auto;
+	background: #fff;
+}
+.clear{
+	overflow: hidden;
+	
+}
+/*Top Navsection css start to here */
+.navsection{
+	margin-left: 31px;
+	margin-right: 11px;
+	margin-bottom: 30px;
+}
+.navsection ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.navsection ul li{
+	float: left;
+	background: #2166A9;
+	margin-right: 8px;
+	padding-top: 10px;
+	padding-right: 48px;
+	padding-left: 57px;
+	padding-bottom: 10px;
+}
+.navsection ul li a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #fff;
+}
+.navsection ul li:hover{
+	background: #00AAFF;
+}	
+/* bottom header css start to here */
+
+.left-header{
+	float: left;
+	margin-left: 31px;
+}
+.left-header h1{
+	font-family: arial;
+	margin-bottom: 10px;
+}
+.right-headersection{
+	float: right;
+	margin-right: 38px;
+}
+.right-headersection p{
+	
+	font-family: arial;
+}
+.bannersection{}
+.bannnersection img{
+	width: 888px;
+	height: 300px;
+	margin-left: 31px;
+	margin-bottom: 20px;
+}
+
+/*Main content css start to here */
+.maincontent{}
+.lcontent{
+	float: left;
+	padding: 24px;
+}
+.lcontent h2, .mcontent h2, .rcontent h2{
+	margin-bottom: 10px;
+	color: green;
+	margin-left: 6px;
+}
+.lcontent img, .mcontent img, .rcontent img{
+	
+	width: 240px;
+	height: 90px;
+	padding: 6px;
+	
+}
+.lcontent p, .mcontent p, .rcontent p{
+	width: 240px;
+	padding: 7px;
+	
+}
+.mcontent{
+	float: left;
+	padding: 24px;
+	margin-left: 35px;
+	
+}
+.rcontent{
+	float: right;
+	padding: 24px;
+	margin-right: 17px;
+}
+
+.lcontent a, .mcontent a, .rcontent a {
+	color: green;
+	cursor: pointer;
+	padding: 4px;
+	float: right;
+}
+
+
+.lcontent img, .mcontent img, .rcontent img {
+	width: 240px;
+	height: 90px;
+	padding: 6px;
+}
+.lcontent p, .mcontent p, .rcontent p {
+	width: 240px;
+	padding: 7px;
+
+}
+.lcontent a, .mcontent a, .rcontent a {
+	color: green;
+	cursor: pointer;
+	float: right;
+	padding: 4px;
+}
+.lcontent a:hover, .mcontent a:hover, .rcontent a:hover{
+    
+    color: #1dcc1d;
+}
+
+.mcontent {
+	float: left;
+	padding: 24px;
+	margin-left: 35px;
+}
+.rcontent {
+	float: right;
+	padding: 24px;
+	margin-right: 17px;
+}
+
+/* bcontent css start to here */
+
+.blcontent {
+	width: 500px;
+	float: left;
+}
+.blcontent h2 {
+	margin-left: 280px;
+	color: green;
+	padding-bottom: 4px;
+}
+.blcontent img {
+	float: left;
+	width: 200px;
+	height: 160px;
+	margin-left: 25px;
+	margin-right: 42px;
+	border: 3px solid #929193;
+	padding: 5px;
+}
+.blcontent p {
+	font-size: 16px;
+	text-align: justify;
+	line-height: 20px;
+}
+.brsidebar {
+	float: right;
+	width: 200px;
+}
+.brsidebar h2 {
+	color: green;
+	padding-bottom: 3px;
+}
+.brsidebar p {
+	line-height: 26px;
+}
+.bimg img {
+	width: 143px;
+	height: 100px;
+	border: 1px solid #929193;
+	padding: 4px;
+	margin-left: 22px;
+	margin-top: 43px;
+}
+
+/*footer option css start to here*/
+
+.foption {
+	background: blue;
+	/* height: 300px; */
+}
+
+.flcontent p {
+	margin-top: 10px;
+	color: #fff;
+}
+.flcontent p{}
+.frcontent {
+	width: 400px;
+	float: right;
+}
+.frcontent p {
+	margin-top: 10px;
+	color: #fff;
+}
+
+
+
+
+
+
+
